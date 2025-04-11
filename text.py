@@ -18,8 +18,8 @@ end_time = time.time()
 elapsed_time = end_time - start_time
 
 # Output the result
-# print("Extracted text:")
-# print(text)
+print("Extracted text:")
+print(text)
 print(f"\n Time taken: {elapsed_time:.4f} seconds")
 
 

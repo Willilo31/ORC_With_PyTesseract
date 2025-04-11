@@ -13,7 +13,7 @@ Se realizaron pruebas de reconocimiento óptico de caracteres (OCR) utilizando l
 | img5*   | 128 x 128        | 1                    | 0.104                        |
 
 > \*img4 y img5 son versiones redimensionadas de img3.
-s
+
 ---
 
 ## 📊 Análisis
